@@ -1,0 +1,11 @@
+numpy>=1.0
+pandas>=1.0
+dill>=0.3
+scikit-learn>=0.24
+seaborn
+scikit-learn
+catboost
+xgboost
+
+
+#-e .
